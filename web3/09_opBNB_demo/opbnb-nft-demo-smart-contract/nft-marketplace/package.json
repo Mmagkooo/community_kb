@@ -33,7 +33,7 @@
     "dotenv": "^8.2.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.9.2",
+    "@openzeppelin/contracts": "^4.9.6",
     "web3": "^4.0.2"
   }
 }
